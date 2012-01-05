@@ -1,0 +1,12 @@
+[submodule "VIM-Railscasts-Color-Theme"]
+	path = VIM-Railscasts-Color-Theme
+	url = https://github.com/minofare/VIM-Railscasts-Color-Theme.git
+[submodule "vim-rspec"]
+	path = vim-rspec
+	url = https://github.com/skwp/vim-rspec.git
+[submodule "vim-colors-solarized"]
+	path = vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized.git
+[submodule "phpfolding.vim"]
+	path = phpfolding.vim
+	url = https://github.com/vim-scripts/phpfolding.vim.git
