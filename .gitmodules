@@ -10,3 +10,6 @@
 [submodule "phpfolding.vim"]
 	path = phpfolding.vim
 	url = https://github.com/vim-scripts/phpfolding.vim.git
+[submodule "ManPageView"]
+	path = ManPageView
+	url = https://github.com/vim-scripts/ManPageView.git
