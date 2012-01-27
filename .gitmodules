@@ -22,3 +22,6 @@
 [submodule "vim-rvm"]
 	path = vim-rvm
 	url = https://github.com/tpope/vim-rvm.git
+[submodule "vim-bundler"]
+	path = vim-bundler
+	url = https://github.com/tpope/vim-bundler.git
