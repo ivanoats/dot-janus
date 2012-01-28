@@ -25,3 +25,6 @@
 [submodule "vim-bundler"]
 	path = vim-bundler
 	url = https://github.com/tpope/vim-bundler.git
+[submodule "AnsiEsc.vim"]
+	path = AnsiEsc.vim
+	url = https://github.com/vim-scripts/AnsiEsc.vim.git
