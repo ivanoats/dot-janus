@@ -28,3 +28,6 @@
 [submodule "AnsiEsc.vim"]
 	path = AnsiEsc.vim
 	url = https://github.com/vim-scripts/AnsiEsc.vim.git
+[submodule "vim-cucumber"]
+	path = vim-cucumber
+	url = https://github.com/tpope/vim-cucumber.git
