@@ -31,3 +31,6 @@
 [submodule "vim-cucumber"]
 	path = vim-cucumber
 	url = https://github.com/tpope/vim-cucumber.git
+[submodule "headlights"]
+	path = headlights
+	url = https://github.com/mbadran/headlights.git
