@@ -34,3 +34,6 @@
 [submodule "headlights"]
 	path = headlights
 	url = https://github.com/mbadran/headlights.git
+[submodule "tabular"]
+	path = tabular
+	url = https://github.com/godlygeek/tabular.git
