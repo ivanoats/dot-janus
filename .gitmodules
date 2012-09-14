@@ -43,3 +43,6 @@
 [submodule "snipmate-snippets-rubymotion"]
 	path = snipmate-snippets-rubymotion
 	url = https://github.com/rcyrus/snipmate-snippets-rubymotion.git
+[submodule "ri.vim"]
+	path = ri.vim
+	url = git://github.com/danchoi/ri.vim.git
