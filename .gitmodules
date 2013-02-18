@@ -46,3 +46,12 @@
 [submodule "ri.vim"]
 	path = ri.vim
 	url = git://github.com/danchoi/ri.vim.git
+[submodule "VimRepress"]
+	path = VimRepress
+	url = git://github.com/vim-scripts/VimRepress.git
+[submodule "neocomplcache"]
+	path = neocomplcache
+	url = git://github.com/Shougo/neocomplcache.git
+[submodule "rgrep.vim"]
+	path = rgrep.vim
+	url = git://github.com/rosenfeld/rgrep.vim.git
