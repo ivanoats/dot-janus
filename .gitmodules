@@ -55,3 +55,9 @@
 [submodule "rgrep.vim"]
 	path = rgrep.vim
 	url = git://github.com/rosenfeld/rgrep.vim.git
+[submodule "rubycomplete.vim"]
+	path = rubycomplete.vim
+	url = git://github.com/vim-scripts/rubycomplete.vim.git
+[submodule "supertab"]
+	path = supertab
+	url = git://github.com/ervandew/supertab.git
